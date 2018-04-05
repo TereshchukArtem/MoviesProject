@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WebAppOctxvii:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac78aafd-a927-4f93-8876-d7cb8766a767" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/WebAppOctxvii_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/WebAppOctxvii_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/b446b595-2be7-4d8f-adfe-cf5001975e56.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_craftsman_dozer_jdk8_support_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_42.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_dozer_dozer_5_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebAppOctxvii.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/BuyTicketServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/HallServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/LoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/MainPageServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/MovieServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/MyTicketsServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/RegisterServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/adminServletAdd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/adminServletDelete.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/adminServletUpdate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/controllers/byTicketServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/DaoFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/api/Dao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/CrudDAO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/HallDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/MovieDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/RoleDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/SQLs.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/SessionDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/TicketDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dao/imp/UserDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/datasource/DataSource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/doserMapping.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dozerJdk8Converters.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/HallDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/MovieDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/RoleDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/SessionDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/TicketDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dto/UserDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/filter/AdminFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/filter/byTicketFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/helper/PropertyHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/lecture8/simple/App.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/lecture8/simple/Human.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mapper/BeanMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Entity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Hall.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Movie.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Role.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Session.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Ticket.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/schema.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/api/Service.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/HallServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/MovieServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/RoleServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/SessionServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/TicketServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/service/impl/UserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/web/WebApp.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp.war" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/BuyTicketServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/HallServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/LoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/MainPageServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/MovieServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/MyTicketsServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/RegisterServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/adminServletAdd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/adminServletDelete.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/adminServletUpdate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/controllers/byTicketServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/DaoFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/api/Dao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/CrudDAO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/HallDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/MovieDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/RoleDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/SQLs.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/SessionDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/TicketDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dao/imp/UserDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/datasource/DataSource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/doserMapping.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dozerJdk8Converters.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/HallDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/MovieDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/RoleDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/SessionDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/TicketDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/dto/UserDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/filter/AdminFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/filter/byTicketFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/helper/PropertyHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/lecture8/simple/App.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/lecture8/simple/Human.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/mapper/BeanMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Entity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Hall.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Movie.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Role.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Session.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/Ticket.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/model/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/schema.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/api/Service.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/HallServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/MovieServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/RoleServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/SessionServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/TicketServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/service/impl/UserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/classes/web/WebApp.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/commons-beanutils-1.9.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/commons-collections-3.2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/commons-lang3-3.2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/dozer-5.5.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/dozer-jdk8-support-1.0.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jstl-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/lombok-1.16.16.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/mysql-connector-java-5.1.42.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/slf4j-api-1.7.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/BlueHall.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/YellowHall.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/gifted.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/hulk.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/main1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/main2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/main3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/main4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/main5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/mainPhone.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/shutterIsland.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/img/thor.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/admin/admin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/completed.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/coordinates.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/hall.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/mainPage.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/movie.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/regCommon/byTicket.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/regCommon/myTickets.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/pages/common/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/webapp/time.jsp" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/_gitignore.txt" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/HallServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/HallServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/LoginServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/LoginServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/MainPageServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/MainPageServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/MovieServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/MovieServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/RegisterServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/RegisterServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/adminServletAdd.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/adminServletAdd.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/adminServletDelete.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/adminServletDelete.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/adminServletUpdate.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/adminServletUpdate.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/byTicketServlet.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/byTicketServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/DaoFactory.java" afterPath="$PROJECT_DIR$/src/main/java/dao/DaoFactory.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/HallDTO.java" afterPath="$PROJECT_DIR$/src/main/java/dto/HallDTO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/MovieDTO.java" afterPath="$PROJECT_DIR$/src/main/java/dto/MovieDTO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/TicketDTO.java" afterPath="$PROJECT_DIR$/src/main/java/dto/TicketDTO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filter/AdminFilter.java" afterPath="$PROJECT_DIR$/src/main/java/filter/AdminFilter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filter/byTicketFilter.java" afterPath="$PROJECT_DIR$/src/main/java/filter/byTicketFilter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapper/BeanMapper.java" afterPath="$PROJECT_DIR$/src/main/java/mapper/BeanMapper.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Hall.java" afterPath="$PROJECT_DIR$/src/main/java/model/Hall.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Movie.java" afterPath="$PROJECT_DIR$/src/main/java/model/Movie.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Role.java" afterPath="$PROJECT_DIR$/src/main/java/model/Role.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Session.java" afterPath="$PROJECT_DIR$/src/main/java/model/Session.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Ticket.java" afterPath="$PROJECT_DIR$/src/main/java/model/Ticket.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/HallServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/HallServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/MovieServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/MovieServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/RoleServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/RoleServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/SessionServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/SessionServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/TicketServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/TicketServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/service/impl/UserServiceImpl.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="web_cinema@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WebAppOctxvii" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AdminServletAdd.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdminServletAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/filter/ByTicketFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/byTicket.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/sqlImport" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/coordinates.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/register.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/SessionDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/imp/SessionDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/imp/CrudDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/WebApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/byTicketServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/imp/TicketDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/lecture8/simple/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/BuyTicketServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/MyTicketsServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/regCommon/myTickets.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/mainPage.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/movie.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/common/regCommon/byTicket.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/adminServletAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Hall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Entity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapper/BeanMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/filter/byTicketFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/filter/AdminFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/HallDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/MovieServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/MainPageServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/HallServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/ByTicketServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AdminServletUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AdminServletDelete.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AdminServletAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/MovieDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/TicketDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Session.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/HallServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/MovieServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/SessionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/TicketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/UserServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="web-app-octxvii Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="web-app-octxvii Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebAppOctxvii" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAppOctxvii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAppOctxvii" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAppOctxvii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAppOctxvii" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAppOctxvii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/SQL Dialects" value="SQLite&#10;TSQL&#10;MySQL&#10;GenericSQL" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Артем\IdeaProjects\WebAppOctxvii\src\main\webapp\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Артем\IdeaProjects\WebAppOctxvii\src\main\webapp\pages\common\regCommon" />
+      <recent name="C:\Users\Артем\IdeaProjects\WebAppOctxvii\src\main\webapp\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lecture8.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lecture8.simple.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WebAppOctxvii" />
+      <envs />
+    </configuration>
+    <configuration name="WebApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="web.WebApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WebAppOctxvii" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/webapp/main" />
+      <deployment>
+        <artifact name="WebAppOctxvii:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/webapp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_WebAppOctxvii_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51389" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WebAppOctxvii:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_WebAppOctxvii" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51389" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WebApp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.WebApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac78aafd-a927-4f93-8876-d7cb8766a767" name="Default" comment="" />
+      <created>1516360786730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516360786730</updated>
+      <workItem from="1516360788707" duration="9498000" />
+      <workItem from="1516377519857" duration="677000" />
+      <workItem from="1516379757873" duration="596000" />
+      <workItem from="1516384745356" duration="1553000" />
+      <workItem from="1516392842113" duration="2122000" />
+      <workItem from="1516439895304" duration="27507000" />
+      <workItem from="1516478487139" duration="2957000" />
+      <workItem from="1516483658627" duration="380000" />
+      <workItem from="1516508833631" duration="2371000" />
+      <workItem from="1516526732522" duration="3937000" />
+      <workItem from="1516531692090" duration="11566000" />
+      <workItem from="1516550558880" duration="18658000" />
+      <workItem from="1516570322604" duration="345000" />
+      <workItem from="1516619291536" duration="8455000" />
+      <workItem from="1516642761194" duration="8732000" />
+      <workItem from="1516799420020" duration="2870000" />
+      <workItem from="1516894068917" duration="1689000" />
+      <workItem from="1516895868638" duration="5116000" />
+      <workItem from="1517046202181" duration="6296000" />
+      <workItem from="1517052623830" duration="3721000" />
+      <workItem from="1517063353714" duration="7472000" />
+      <workItem from="1517073831656" duration="5616000" />
+      <workItem from="1517132976516" duration="3940000" />
+      <workItem from="1517218977522" duration="2420000" />
+      <workItem from="1517231726539" duration="7764000" />
+      <workItem from="1517304808785" duration="14494000" />
+      <workItem from="1517339387361" duration="2379000" />
+      <workItem from="1517393770726" duration="12258000" />
+      <workItem from="1517407149050" duration="9330000" />
+      <workItem from="1517421581843" duration="12998000" />
+      <workItem from="1517476526207" duration="11117000" />
+      <workItem from="1517487947548" duration="3447000" />
+      <workItem from="1517499885171" duration="2179000" />
+      <workItem from="1517586344809" duration="506000" />
+      <workItem from="1520791174072" duration="42000" />
+      <workItem from="1522088451280" duration="100000" />
+      <workItem from="1522241809591" duration="234000" />
+      <workItem from="1522242748318" duration="1134000" />
+      <workItem from="1522243993328" duration="1228000" />
+      <workItem from="1522249199526" duration="1438000" />
+      <workItem from="1522488958083" duration="2278000" />
+      <workItem from="1522683352801" duration="1656000" />
+      <workItem from="1522685074848" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="add Cinema project">
+      <created>1517424264808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517424264808</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Cinema project">
+      <created>1517489648949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517489648949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Cinema project">
+      <created>1517499094755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517499094755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add dump in resources">
+      <created>1517499415262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517499415262</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add dump in resources">
+      <created>1517499949549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517499949549</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add dump in resources">
+      <created>1517500264323</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517500264323</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dump">
+      <created>1517501179813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517501179813</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add dump">
+      <created>1517501761863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1517501761863</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223318000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3954984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5547786" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18910742" sideWeight="0.3488746" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14372164" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.4916067" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31028938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19213313" sideWeight="0.44522145" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Cinema project" />
+    <MESSAGE value="add dump in resources" />
+    <MESSAGE value="add dump" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dump" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpSession.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/imp/TicketDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="48" column="57" lean-forward="false" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="2" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="46" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lecture8/simple/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/common/regCommon/myTickets.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="113" lean-forward="false" selection-start-line="9" selection-start-column="113" selection-end-line="9" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/common/mainPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/common/movie.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="90" lean-forward="false" selection-start-line="8" selection-start-column="90" selection-end-line="8" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/common/regCommon/byTicket.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lecture8/simple/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="32" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MyTicketsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MovieServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MainPageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/HallServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ByTicketServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/BuyTicketServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdminServletUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="80" lean-forward="false" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdminServletDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/api/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/DaoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datasource/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/HallDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/MovieDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/RoleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/SessionDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/TicketDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filter/AdminFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filter/byTicketFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/PropertyHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapper/BeanMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Hall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/MovieServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/SessionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/HallServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/TicketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/WebApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="213" column="34" lean-forward="false" selection-start-line="213" selection-start-column="34" selection-end-line="213" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/api/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdminServletAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>WebAppOctxvii:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WebAppOctxvii</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
